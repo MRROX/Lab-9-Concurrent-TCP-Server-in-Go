@@ -10,7 +10,6 @@ A concurrent TCP echo server and load-testing client demonstrating goroutine-bas
 |------|-------------|
 | `server.go` | Concurrent TCP server with timeouts, connection cap, logging, metrics |
 | `client.go` | Configurable load-testing client |
-| `report.md` | Crash analysis, debugging evidence, metrics, and mitigation |
 
 ---
 
